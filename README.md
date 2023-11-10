@@ -1,3 +1,23 @@
+
+Spicy Chain Contact Book
+
+![Screenshot_2](https://github.com/irfanbariss/web3-chiliz-final-project/assets/129832202/1559c0bf-6d5d-4bea-9d4e-4162bee83909)
+
+
+## Details
+
+In this project I created my own smart contract from scratch using solidity and forge.
+On the front end, I used React, Typescript and Css.
+
+## How to use
+
+Users should connect their wallets to access their own contact books.
+Initially contact book will be empty. They should click on the add contact button and then enter the required information.
+Then they should have the gas fee information before they add the contact on their contact book.
+They can also remove contacts from their contact books by pressing the remove button.
+
+
+
 ## Getting Started
 
 Create a project using this example:
