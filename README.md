@@ -6,15 +6,16 @@ Spicy Chain Contact Book
 
 ## Details
 
-In this project I created my own smart contract from scratch using solidity and forge.
-On the front end, I used React, Typescript and Css.
+* In this project I created my own smart contract from scratch using solidity and forge.
+* On the front end, I used React, Typescript and Css.
+* The app is running on Spicy Chain.
 
 ## How to use
 
-Users should connect their wallets to access their own contact books.
-Initially contact book will be empty. They should click on the add contact button and then enter the required information.
-Then they should have the gas fee information before they add the contact on their contact book.
-They can also remove contacts from their contact books by pressing the remove button.
+* Users should connect their wallets to access their own contact books.
+* Initially contact book will be empty. They should click on the add contact button and then enter the required information.
+* Then they should have the gas fee information before they add the contact on their contact book.
+* Users can also remove contacts from their contact books by pressing the remove button.
 
 
 
